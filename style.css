@@ -1,0 +1,55 @@
+body{
+    color: whitesmoke;
+    background-color: black
+}
+
+h1{
+    text-align: center;
+
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+a{
+    color: whitesmoke;
+    }
+    
+    
+img{
+    width: 200px;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items:center;
+}
+
+footer{
+       text-align: center;
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       color: aquamarine;
+
+      }
+
+    h3{
+       color: rgb(27, 179, 235);
+      }
+
+      a{
+        color: orange;
+      }
+
+      article{
+              text-align: center;
+      }
+
+      class{
+            background-color: purple;
+      }
+
+
